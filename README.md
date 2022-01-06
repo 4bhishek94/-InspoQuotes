@@ -1,7 +1,7 @@
 # InspoQuotes
 InspoQuotes is a freemium app that gives some free inspiration and a lot of paid inspiration.  
 
-## What you I learnt
+## What I learnt
 
 * How to setup new in-app purchases on App Store Connect
 * How to use the StoreKit API to allow users to purchase premium content
